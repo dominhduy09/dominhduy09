@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
 <h3 align="center">Passionate coder and crazy about exploring</h3>
 
+<img align="right" alt="Coding" width="400" src="https://gfycat.com/exemplaryfairfeline">
+
 - 🔭 I’m currently working on **XXX**
 
 - 🌱 I’m currently learning **Computer Science**
