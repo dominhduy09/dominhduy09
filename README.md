@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
 <h3 align="center">Passionate coder and crazy about exploring</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominhduy09&label=Profile%20views&color=0e75b6&style=flat" alt="dominhduy09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominhduy09" alt="dominhduy09" /></a> </p>
-
 - 🔭 I’m currently working on **XXX**
 
 - 🌱 I’m currently learning **Computer Science**
@@ -43,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominhduy09&show_icons=true&locale=en" alt="dominhduy09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhduy09&" alt="dominhduy09" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominhduy09&label=Profile%20views&color=0e75b6&style=flat" alt="dominhduy09" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominhduy09" alt="dominhduy09" /></a> </p>
