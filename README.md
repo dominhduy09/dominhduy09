@@ -37,11 +37,11 @@
 <p><a href="https://www.buymeacoffee.com/dominhduy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dominhduy" /></a></p><br><br>
 
 <br>
-
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominhduy09&show_icons=true&locale=en&layout=compact" alt="dominhduy09" /></p>
 
 <br>
-
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominhduy09&show_icons=true&locale=en" alt="dominhduy09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhduy09&" alt="dominhduy09" /></p>
