@@ -7,19 +7,13 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👯 I’m looking to collaborate on **XXX**
-
 - 🤝 I’m looking for help with **XXX**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/duy-do-minh-0b37501a9/](https://www.linkedin.com/in/duy-do-minh-0b37501a9/)
 
 - 📝 I regularly write articles on [https://bio.link/dmduy](https://bio.link/dmduy)
 
-- 💬 Ask me about **HTML5**
-
 - 📫 How to reach me **dominhduy09@gmail.com**
-
-- 📄 Know about my experiences [XXX](XXX)
 
 - ⚡ Fun fact **I speak 3 languages (Vietnamese, English, Japanese)**
 
