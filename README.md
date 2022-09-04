@@ -38,6 +38,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominhduy09&show_icons=true&locale=en&layout=compact" alt="dominhduy09" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominhduy09&show_icons=true&locale=en" alt="dominhduy09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhduy09&" alt="dominhduy09" /></p>
