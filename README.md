@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **XXX**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/duy-do-minh-0b37501a9/](https://www.linkedin.com/in/duy-do-minh-0b37501a9/)
+- 👨‍💻 All of my projects are available at https://github.com/dominhduy09
 
 - 📝 I regularly write articles on [https://bio.link/dmduy](https://bio.link/dmduy)
 
