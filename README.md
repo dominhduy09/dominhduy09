@@ -36,11 +36,21 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dominhduy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dominhduy" /></a></p><br><br>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominhduy09&show_icons=true&locale=en&layout=compact" alt="dominhduy09" /></p>
-
+</details>
+  
+ <details>
+  <summary>:zap: GitHub Stats</summary>
+  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dominhduy09&show_icons=true&locale=en" alt="dominhduy09" /></p>
-
+</details>
+  
+  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhduy09&" alt="dominhduy09" /></p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominhduy09" alt="dominhduy09" /></a> </p>
 
