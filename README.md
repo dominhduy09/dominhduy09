@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 🤝 I’m looking for help with **XXX**
+- 🤝 My bio **https://bio.link/dmduy**
 
 - 👨‍💻 All of my projects are available at https://github.com/dominhduy09
 
-- 📝 I regularly write articles on [https://bio.link/dmduy](https://bio.link/dmduy)
+- 📝 I regularly write articles on **https://dominhduy.blogspot.com**
 
 - 📫 How to reach me **dominhduy09@gmail.com**
 
