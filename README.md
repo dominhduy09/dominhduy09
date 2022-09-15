@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **XXX**
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Computer Science** in **https://hcmiu.edu.vn**
 
 - 🤝 My bio **https://bio.link/dmduy**
 
-- 👨‍💻 All of my projects are available at https://github.com/dominhduy09
+- 👨‍💻 All of my projects are available at **https://github.com/dominhduy09**
 
-- 📝 I regularly write articles on **https://dominhduy.blogspot.com**
+- 📝 I regularly write Blog/Note/Article on **https://dominhduy.blogspot.com**
 
 - 📫 How to reach me **dominhduy09@gmail.com**
 
