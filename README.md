@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Computer Science** in **https://hcmiu.edu.vn**
 
-- 🤝 My bio **https://bio.link/dmduy**
+- 🤝 My bio: **https://bio.link/dmduy**
 
 - 👨‍💻 All of my projects are available at **https://github.com/dominhduy09**
 
 - 📝 I regularly write Blog/Note/Article on **https://dominhduy.blogspot.com**
 
-- 📫 How to reach me **dominhduy09@gmail.com**
+- 📫 How to reach me: **dominhduy09@gmail.com**
 
-- ⚡ Fun fact **I speak 3 languages (Vietnamese, English, Japanese)**
+- ⚡ Fun fact: **I speak 3 languages (Vietnamese, English, Japanese)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
