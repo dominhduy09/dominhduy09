@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/dominhduy09**
 
-- 📝 I regularly write Blog/Note/Article on **https://dominhduy.blogspot.com** & **https://hackmd.io/@dominhduy**
+- 📝 I regularly write Blog on **https://dominhduy.blogspot.com** & **https://hackmd.io/@dominhduy**
 
 - 📫 How to reach me: **dominhduy09@gmail.com** 
 
