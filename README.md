@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]
+[![MasterHead](https://i.gifer.com/UJr.mp4)](https://bio.link/dmduy)
 
 <h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
 <h3 align="center">Passionate coder and crazy about exploring</h3>
