@@ -1,4 +1,5 @@
-[![MasterHead][(https://i.gifer.com/UJr.gif)](https://bio.link/dmduy)
+[![MasterHead](https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif)]
+(https://bio.link/dmduy)
 
 <h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
 <h3 align="center">Passionate coder and crazy about exploring</h3>
