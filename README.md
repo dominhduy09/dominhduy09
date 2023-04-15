@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://bio.link/dmduy)
+[![MasterHead](![image](https://user-images.githubusercontent.com/64354042/232230116-6ac04990-fc80-4702-b59a-aaaa74158481.png)](https://bio.link/dmduy)
 
 <h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
 <h3 align="center">Passionate coder and crazy about exploring</h3>
