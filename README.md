@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/cbc7fb734b7d881f8e3fe1e3bd2b22a0/f5086ac2846e4387-c5/s640x960/36597249be5d9fe5ecae6ff7aa1a4d32d2551747.gifv)](https://bio.link/dmduy)
+[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://bio.link/dmduy)
 
 <h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
 <h3 align="center">Passionate coder and crazy about exploring</h3>
