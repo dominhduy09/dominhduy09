@@ -35,27 +35,4 @@
 
 <br>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominhduy09&show_icons=true&locale=en&layout=compact" alt="dominhduy09" /></p>
-</details>
-  
- <details>
-  <summary>:zap: GitHub Stats</summary>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominhduy09&show_icons=true&locale=en" alt="dominhduy09" /></p>
-</details>
-  
- <details>
-  <summary>:zap: Streak Stats</summary>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominhduy09&" alt="dominhduy09" /></p>
-</details>
- 
- <details>
-  <summary>:zap: Badges</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominhduy09" alt="dominhduy09" /></a> </p>
-</details>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dominhduy09&label=Profile%20views&color=0e75b6&style=flat" alt="dominhduy09" /> </p>
