@@ -9,7 +9,7 @@
 
 - 👨‍💻 My projects are available at: **https://github.com/dominhduy09** & **https://replit.com/@dominhduy** & **https://glitch.com/@dominhduy09**
 
-- 📝 I write Blog on: **https://dominhduy.blogspot.com** & **https://hackmd.io/@dominhduy**
+- 📝 I write Blog on: **https://dominhduy.blogspot.com** & **https://hackmd.io/@dominhduy** & **https://www.wattpad.com/user/user57213391**
 
 - 📫 How to reach me: **dominhduy09@gmail.com** 
 
