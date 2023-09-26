@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **dominhduy09@gmail.com** 
 
-- ⚡ Fun fact: **I speak more than 2 languages (Vietnamese, English)** 
+- ⚡ Fun fact: **I speak more than 2 languages (Vietnamese, English)** & I tend to learn more
 
 <hr />
 
