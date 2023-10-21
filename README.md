@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages </h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,c,cpp,html,css,js,py,docker,postman,vim,linux" />
+  <img src="https://skillicons.dev/icons?i=github,vim,linux,c,cpp,html,css,js,py,docker,postman" />
 </a>
 
 <h3 align="left">Support me </h3>
