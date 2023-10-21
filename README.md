@@ -22,7 +22,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=github,vim,linux,c,cpp,html,css,js,py,docker,postman" />
 </a>
-
-
-<p><a href="https://www.buymeacoffee.com/dominhduy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dominhduy" /></a></p><br><br>
-
