@@ -19,19 +19,11 @@
 
 <hr />
 
-<h3 align="left">Connect with me </h3>
-<p align="left">
-<a href="https://linkedin.com/in/duy-do-minh-0b37501a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duy-do-minh-0b37501a9" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__dm.d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages </h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=github,vim,linux,c,cpp,html,css,js,py,docker,postman" />
 </a>
 
-<h3 align="left">Support me </h3>
+
 <p><a href="https://www.buymeacoffee.com/dominhduy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dominhduy" /></a></p><br><br>
 
 <br>
