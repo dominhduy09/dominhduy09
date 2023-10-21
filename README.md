@@ -32,8 +32,8 @@
   <img src="https://skillicons.dev/icons?i=github,c,cpp,html,css,js,py,docker,vim" />
 </a>
 
-<p align="left"> Languages
-  <a href="https://skillicons.dev">
+<p align="left">
+  <a href="https://skillicons.dev"> Languages
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
