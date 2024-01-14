@@ -3,7 +3,7 @@
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=198E19&random=false&width=435&lines=I+am+into+Cybersecurity+and+Coding." alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="Coding" width="430" src="https://www.behance.net/search?content=projects&user_tags=1555631">
+<img align="right" alt="Coding" width="430" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 🌱 I am learning **Computer Science** 
 
