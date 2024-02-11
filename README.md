@@ -23,4 +23,6 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,vim,linux,py,java,c,cpp,html,css,js,docker,postman,pr,ps" />
 </a>
 
+</br>
+
 ![status](https://api.statusbadges.me/badge/status/607948324267622412)
