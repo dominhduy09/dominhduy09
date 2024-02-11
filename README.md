@@ -18,6 +18,8 @@
 - ⚡ Fun fact: **I speak more than 2 languages (Vietnamese, English)** & I tend to learn more
 
 </br>
+![status](https://api.statusbadges.me/badge/status/607948324267622412)
+</br>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=github,vscode,vim,linux,py,java,c,cpp,html,css,js,docker,postman,pr,ps" />
