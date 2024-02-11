@@ -20,5 +20,5 @@
 </br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,vim,linux,c,cpp,html,css,js,py,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=github,vim,linux,py,java,c,cpp,html,css,js,docker,postman" />
 </a>
