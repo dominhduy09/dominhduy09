@@ -20,7 +20,7 @@
 </br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pr,ps,github,gitlab,bitbucket,replit,vercel,sublime,powershell,vscode,vim,apple,windows,linux,debian,octave,py,java,cpp,html,css,js,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=pr,ps,github,gitlab,bitbucket,replit,vercel,codepen,sublime,powershell,vscode,vim,apple,windows,linux,debian,octave,py,java,cpp,html,css,js,docker,postman" />
 </a>
 
 </br>
