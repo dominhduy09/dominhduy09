@@ -26,3 +26,7 @@
 </br>
 
 ![status](https://api.statusbadges.me/badge/status/607948324267622412)
+![vscode](https://api.statusbadges.me/badge/vscode/607948324267622412)
+![playing](https://api.statusbadges.me/badge/playing/607948324267622412)
+[![spotify](https://api.statusbadges.me/badge/spotify/607948324267622412)](https://api.statusbadges.me/openspotify/607948324267622412)
+
