@@ -7,9 +7,9 @@
 
 - 🌱 I am learning **Computer Science** 
 
-- 🤝 My bio: **https://bio.link/dmduy**
+- 🤝 My bio: **https://bio.link/dmduy** & **https://linktr.ee/dmduy**
 
-- 👨‍💻 My projects are available at: **https://github.com/dominhduy09** & **https://replit.com/@dominhduy** & **https://glitch.com/@dominhduy09**
+- 👨‍💻 My projects are available at: **https://github.com/dominhduy09** & **https://gitlab.com/dominhduy09** & **https://replit.com/@dominhduy** & **https://glitch.com/@dominhduy09**
 
 - 📝 My blogs are available at: **https://dominhduy.blogspot.com** & **https://hackmd.io/@dominhduy** & **https://www.wattpad.com/user/user57213391**
 
