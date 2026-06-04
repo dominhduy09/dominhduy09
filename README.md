@@ -26,6 +26,17 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 
 </br>
 
+- 🏅 Winner at IT Hackathon 2024 (Solana Customer Hack 16)
+- 🏅 Winner at ASEAN Student Contest on Information Security (ASCIS)
+- 🏅 Winner at Summer Expo 2025
+
+
+</br>
+
+- Transfer Student of the Year Award
+- Partial Scholarship for Two Years
+
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pr,ps,github,gitlab,bitbucket,replit,vercel,codepen,sublime,powershell,vscode,vim,apple,windows,linux,debian,octave,py,java,cpp,html,css,js,docker,postman" />
 </a>
