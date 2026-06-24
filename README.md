@@ -94,5 +94,12 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 [![spotify](https://api.statusbadges.me/badge/spotify/607948324267622412)](https://api.statusbadges.me/openspotify/607948324267622412)
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dominhduy09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d4ff00&icon_color=d4ff00" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dominhduy09&theme=tokyonight&hide_border=true&background=0d1117&ring=d4ff00&fire=d4ff00&currStreakLabel=d4ff00" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
   <em> Always open to sharing ideas, collaborating, or consulting on projects. If anything here catches your eye, reach out!</em>
 </div>
