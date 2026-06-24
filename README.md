@@ -30,18 +30,44 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 - 🏅 Winner at ASEAN Student Contest on Information Security (ASCIS)
 - 🏅 Winner at Summer Expo 2025
 
-
 </br>
 
 - Transfer Student of the Year Award
 - Partial Scholarship for Two Years
 
+<div align="left">
+<table border="0">
+  <tr>
+    <td width="200px" align="left"><b>🚀 Languages & Web</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=octave,py,java,cpp,html,css,js" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>📝 Editors & IDEs</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sublime,vscode,vim" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>⚙️ DevOps & Tools</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=powershell,docker,postman" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🗄️ Version Control</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🌐 Cloud & Hosting</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=replit,vercel,codepen" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>💻 OS & Systems</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,windows,linux,debian" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🎨 Design & Video</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pr,ps" /></a></td>
+  </tr>
+</table>
+</div>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pr,ps,github,gitlab,bitbucket,replit,vercel,codepen,sublime,powershell,vscode,vim,apple,windows,linux,debian,octave,py,java,cpp,html,css,js,docker,postman" />
-</a>
-
-</br>
 </br>
 
 ![status](https://api.statusbadges.me/badge/status/607948324267622412)
