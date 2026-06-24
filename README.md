@@ -92,3 +92,7 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 ![vscode](https://api.statusbadges.me/badge/vscode/607948324267622412)
 ![playing](https://api.statusbadges.me/badge/playing/607948324267622412)
 [![spotify](https://api.statusbadges.me/badge/spotify/607948324267622412)](https://api.statusbadges.me/openspotify/607948324267622412)
+
+<div align="center">
+  <em> Always open to sharing ideas, collaborating, or consulting on projects. If anything here catches your eye, reach out!</em>
+</div>
