@@ -38,32 +38,48 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 <div align="left">
 <table border="0">
   <tr>
-    <td width="200px" align="left"><b>🚀 Languages & Web</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=octave,py,java,cpp,html,css,js" /></a></td>
+    <td width="200px" align="left"><b>🚀 Languages & Core</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,php,swift,matlab,latex" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>⚛️ Frameworks & Libs</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,vue,threejs,tailwind,laravel,flask,fastapi,flutter" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🟢 Runtime & Build Tools</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,vite,npm,pnpm" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🗄️ Databases & Storage</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase,firebase" /></a></td>
   </tr>
   <tr>
     <td align="left"><b>📝 Editors & IDEs</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sublime,vscode,vim" /></a></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,sublime,vim,androidstudio,arduino" /></a></td>
   </tr>
   <tr>
-    <td align="left"><b>⚙️ DevOps & Tools</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=powershell,docker,postman" /></a></td>
+    <td align="left"><b>⚙️ DevOps & Servers</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,gcp,powershell,postman" /></a></td>
   </tr>
   <tr>
-    <td align="left"><b>🗄️ Version Control</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket" /></a></td>
+    <td align="left"><b>🌱 Version Control</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" /></a></td>
   </tr>
   <tr>
     <td align="left"><b>🌐 Cloud & Hosting</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=replit,vercel,codepen" /></a></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel,replit,webpack,wordpress" /></a></td>
   </tr>
   <tr>
     <td align="left"><b>💻 OS & Systems</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,windows,linux,debian" /></a></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,windows,linux,debian,mint,kali" /></a></td>
   </tr>
   <tr>
-    <td align="left"><b>🎨 Design & Video</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pr,ps" /></a></td>
+    <td align="left"><b>🎨 Design & Software</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,pr,ps" /></a></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🧠 AI & Productivity</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn,stackoverflow,notion" /></a></td>
   </tr>
 </table>
 </div>
