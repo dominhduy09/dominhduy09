@@ -35,6 +35,8 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 - Transfer Student of the Year Award
 - Partial Scholarship for Two Years
 
+</br>
+
 <div align="left">
 <table border="0">
   <tr>
@@ -90,4 +92,3 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 ![vscode](https://api.statusbadges.me/badge/vscode/607948324267622412)
 ![playing](https://api.statusbadges.me/badge/playing/607948324267622412)
 [![spotify](https://api.statusbadges.me/badge/spotify/607948324267622412)](https://api.statusbadges.me/openspotify/607948324267622412)
-
