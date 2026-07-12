@@ -95,9 +95,9 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dominhduy09&theme=tokyonight&hide_border=true&background=0d1117&ring=d4ff00&fire=d4ff00&currStreakLabel=d4ff00" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dominhduy09&theme=tokyonight&hide_border=true&background=0d1117&ring=d4ff00&fire=d4ff00&currStreakLabel=d4ff00&card_width=600" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dominhduy09&theme=tokyo-night&hide_border=true&area=true" width="55%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dominhduy09&theme=tokyo-night&hide_border=true&area=true" width="75%"/>
 
 ![snake gif](https://github.com/dominhduy09/dominhduy09/blob/output/github-contribution-grid-snake-dark.svg)
 
