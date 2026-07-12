@@ -99,7 +99,7 @@ CS Student @ UAB | Student Assistant | Seeking Internship | Web & Software Devel
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominhduy09&theme=tokyo-night&hide_border=true&area=true" width="55%"/>
 
-![snake gif](https://github.com/dominhduy09/dominhduy09/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dominhduy09/dominhduy09/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
