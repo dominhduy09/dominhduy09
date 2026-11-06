@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Do Minh Duy</h2>
+<h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
 
 <p align="center">
   <a href="mailto:dominhduy09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://gitlab.com/dominhduy09"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a><a href="https://x.com/DoMinhDuy7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a><a href="https://www.linkedin.com/in/duy-do-minh-0b37501a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
